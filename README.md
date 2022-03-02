@@ -32,22 +32,31 @@
 
 ## 已毕业研究生
 
-|姓名|性别|毕业年份|学位|导师|毕业去向|
-| :-: | :-: | :-: | :-: | :-: | :- |
-|[赵娜](http://ssp.cufe.edu.cn/info/1126/4046.htm)|女|2012届|博士|蔡华俭|中科院心理所（助研）→ 中央财经大学-社会与心理学院-心理学系（副教授）|
-|石晶|女|2013届|博士|蔡华俭||
-|[杨璟](https://lyxy.hqu.edu.cn/info/1175/8108.htm)|女|2014届|博士|蔡华俭|华侨大学-旅游学院-酒店管理系（讲师 → 副教授）|
-|[施媛媛](http://tourism.fudan.edu.cn/6576/list.htm)|女|2016届|博士|蔡华俭|香港中文大学-社会科学院（博士后）→ 复旦大学-旅游学系（青年副研究员）|
-|[杨紫嫣](http://www.psych.cas.cn/yjdw/zhuyan/zhuyanwy/202110/t20211015_6222956.html)|女|2018届|博士|蔡华俭|中国科学院心理研究所（岗位博士后 → 助理研究员）|
-|[刘云芝](http://jyxy.usts.edu.cn/info/1093/2078.htm)|女|2019届|博士|蔡华俭|苏州科技大学-教育学院-心理系（讲师）|
-|[王娱琦](https://gsgl.zjsu.edu.cn/2021/0601/c103a74503/page.htm)|女|2019届|博士|蔡华俭|浙江工商大学-工商管理学院-人力资源与组织管理系（讲师）|
-|[黄梓航](https://xlzhx.cdu.edu.cn/info/1014/1654.htm)|男|2020届|博士|蔡华俭|成都大学-心理健康教育中心（咨询师）|
-|[陈鋆](https://psy.bsu.edu.cn/szdw/js2/f432fdc97d374b3f89a3256afa1fcf60.htm)|男|2021届|博士|蔡华俭|北京体育大学-心理学院（讲师）|
-|[丰怡](http://xinli.cufe.edu.cn/info/1002/1124.htm)|女|2013届|硕士|蔡华俭|中央财经大学-学生心理咨询中心（咨询师）|
-|岳曦彤|女|2013届|硕士|蔡华俭||
-|洪钰|女|2017届|硕士|蔡华俭||
-|王宏燕|女|2018届|硕士|古若雷|南京大学（读博）|
-|[谢怡萍](http://cai.psych.ac.cn:8081/6?p_p_id=622_INSTANCE_Rb4i&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_622_INSTANCE_Rb4i_struts_action=%2Fjournal_articles2%2Fview&_622_INSTANCE_Rb4i_cur=2&_622_INSTANCE_Rb4i_delta=20&_622_INSTANCE_Rb4i_keywords=&_622_INSTANCE_Rb4i_advancedSearch=false&_622_INSTANCE_Rb4i_andOperator=true&_622_INSTANCE_Rb4i_searchArticleId=&_622_INSTANCE_Rb4i_content=&_622_INSTANCE_Rb4i_description=&_622_INSTANCE_Rb4i_groupId=92175&_622_INSTANCE_Rb4i_status=approved&_622_INSTANCE_Rb4i_structureId=&_622_INSTANCE_Rb4i_templateId=&_622_INSTANCE_Rb4i_title=&_622_INSTANCE_Rb4i_type=&_622_INSTANCE_Rb4i_version=1.0&_622_INSTANCE_Rb4i_orderByCol=display-date&_622_INSTANCE_Rb4i_orderByType=ascending&_622_INSTANCE_Rb4i_articleId=92479&_622_INSTANCE_Rb4i_redirect=http%3A%2F%2Fcai.psych.ac.cn%3A8081%2F6%3Fp_p_id%3D622_INSTANCE_Rb4i%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview)|女|2021届|硕士|蔡华俭|腾讯（工作）|
-|[王潇欧](http://cai.psych.ac.cn:8081/6?p_p_id=622_INSTANCE_Rb4i&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_622_INSTANCE_Rb4i_struts_action=%2Fjournal_articles2%2Fview&_622_INSTANCE_Rb4i_cur=2&_622_INSTANCE_Rb4i_delta=20&_622_INSTANCE_Rb4i_keywords=&_622_INSTANCE_Rb4i_advancedSearch=false&_622_INSTANCE_Rb4i_andOperator=true&_622_INSTANCE_Rb4i_searchArticleId=&_622_INSTANCE_Rb4i_content=&_622_INSTANCE_Rb4i_description=&_622_INSTANCE_Rb4i_groupId=92175&_622_INSTANCE_Rb4i_status=approved&_622_INSTANCE_Rb4i_structureId=&_622_INSTANCE_Rb4i_templateId=&_622_INSTANCE_Rb4i_title=&_622_INSTANCE_Rb4i_type=&_622_INSTANCE_Rb4i_version=1.0&_622_INSTANCE_Rb4i_orderByCol=display-date&_622_INSTANCE_Rb4i_orderByType=ascending&_622_INSTANCE_Rb4i_articleId=92497&_622_INSTANCE_Rb4i_redirect=http%3A%2F%2Fcai.psych.ac.cn%3A8081%2F6%3Fp_p_id%3D622_INSTANCE_Rb4i%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview)|女|2021届|硕士|蔡华俭|字节跳动（工作）|
-|[朱慧珺](http://cai.psych.ac.cn:8081/6?p_p_id=622_INSTANCE_Rb4i&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_622_INSTANCE_Rb4i_struts_action=%2Fjournal_articles2%2Fview&_622_INSTANCE_Rb4i_cur=2&_622_INSTANCE_Rb4i_delta=20&_622_INSTANCE_Rb4i_keywords=&_622_INSTANCE_Rb4i_advancedSearch=false&_622_INSTANCE_Rb4i_andOperator=true&_622_INSTANCE_Rb4i_searchArticleId=&_622_INSTANCE_Rb4i_content=&_622_INSTANCE_Rb4i_description=&_622_INSTANCE_Rb4i_groupId=92175&_622_INSTANCE_Rb4i_status=approved&_622_INSTANCE_Rb4i_structureId=&_622_INSTANCE_Rb4i_templateId=&_622_INSTANCE_Rb4i_title=&_622_INSTANCE_Rb4i_type=&_622_INSTANCE_Rb4i_version=1.0&_622_INSTANCE_Rb4i_orderByCol=display-date&_622_INSTANCE_Rb4i_orderByType=ascending&_622_INSTANCE_Rb4i_articleId=92488&_622_INSTANCE_Rb4i_redirect=http%3A%2F%2Fcai.psych.ac.cn%3A8081%2F6%3Fp_p_id%3D622_INSTANCE_Rb4i%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview)|女|2021届|硕士|蔡华俭|北京思特奇（工作）|
-|[张明杨](http://cai.psych.ac.cn:8081/6?p_p_id=622_INSTANCE_Rb4i&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_622_INSTANCE_Rb4i_struts_action=%2Fjournal_articles2%2Fview&_622_INSTANCE_Rb4i_cur=2&_622_INSTANCE_Rb4i_delta=20&_622_INSTANCE_Rb4i_keywords=&_622_INSTANCE_Rb4i_advancedSearch=false&_622_INSTANCE_Rb4i_andOperator=true&_622_INSTANCE_Rb4i_searchArticleId=&_622_INSTANCE_Rb4i_content=&_622_INSTANCE_Rb4i_description=&_622_INSTANCE_Rb4i_groupId=92175&_622_INSTANCE_Rb4i_status=approved&_622_INSTANCE_Rb4i_structureId=&_622_INSTANCE_Rb4i_templateId=&_622_INSTANCE_Rb4i_title=&_622_INSTANCE_Rb4i_type=&_622_INSTANCE_Rb4i_version=1.0&_622_INSTANCE_Rb4i_orderByCol=display-date&_622_INSTANCE_Rb4i_orderByType=ascending&_622_INSTANCE_Rb4i_articleId=92506&_622_INSTANCE_Rb4i_redirect=http%3A%2F%2Fcai.psych.ac.cn%3A8081%2F6%3Fp_p_id%3D622_INSTANCE_Rb4i%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview)|男|2021届|硕士|蔡华俭|清华大学（读博）|
+### 博士毕业生
+
+|姓名|性别|毕业年份|毕业去向|
+| :-: | :-: | :-: | :- |
+|[赵娜](http://ssp.cufe.edu.cn/info/1126/4046.htm)|女|2012届|中国科学院心理研究所（博士后）|
+||||→ 中央财经大学-社会与心理学院-心理学系（讲师 → 副教授）|
+|石晶|女|2013届||
+|[杨璟](https://lyxy.hqu.edu.cn/info/1175/8108.htm)|女|2014届|华侨大学-旅游学院-酒店管理系（讲师 → 副教授）|
+|[施媛媛](http://tourism.fudan.edu.cn/6576/list.htm)|女|2016届|香港中文大学-社会科学院（博士后）|
+||||→ 复旦大学-旅游学系（青年副研究员）|
+|[杨紫嫣](http://www.psych.cas.cn/yjdw/zhuyan/zhuyanwy/202110/t20211015_6222956.html)|女|2018届|中国科学院心理研究所（岗位博士后 → 助理研究员）|
+|[刘云芝](http://jyxy.usts.edu.cn/info/1093/2078.htm)|女|2019届|苏州科技大学-教育学院-心理系（讲师）|
+|[王娱琦](https://gsgl.zjsu.edu.cn/2021/0601/c103a74503/page.htm)|女|2019届|浙江工商大学-工商管理学院-人力资源与组织管理系（讲师）|
+|[黄梓航](https://xlzhx.cdu.edu.cn/info/1014/1654.htm)|男|2020届|成都大学-心理健康教育中心（咨询师）|
+|[陈鋆](https://psy.bsu.edu.cn/szdw/js2/f432fdc97d374b3f89a3256afa1fcf60.htm)|男|2021届|北京体育大学-心理学院（讲师）|
+
+### 硕士毕业生
+
+|姓名|性别|毕业年份|毕业去向|
+| :-: | :-: | :-: | :- |
+|[丰怡](http://xinli.cufe.edu.cn/info/1002/1124.htm)|女|2013届|中央财经大学-学生心理咨询中心（咨询师）|
+|岳曦彤|女|2013届||
+|洪钰|女|2017届||
+|王宏燕|女|2018届|南京大学（读博）|
+|[谢怡萍](http://cai.psych.ac.cn:8081/6?p_p_id=622_INSTANCE_Rb4i&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_622_INSTANCE_Rb4i_struts_action=%2Fjournal_articles2%2Fview&_622_INSTANCE_Rb4i_cur=2&_622_INSTANCE_Rb4i_delta=20&_622_INSTANCE_Rb4i_keywords=&_622_INSTANCE_Rb4i_advancedSearch=false&_622_INSTANCE_Rb4i_andOperator=true&_622_INSTANCE_Rb4i_searchArticleId=&_622_INSTANCE_Rb4i_content=&_622_INSTANCE_Rb4i_description=&_622_INSTANCE_Rb4i_groupId=92175&_622_INSTANCE_Rb4i_status=approved&_622_INSTANCE_Rb4i_structureId=&_622_INSTANCE_Rb4i_templateId=&_622_INSTANCE_Rb4i_title=&_622_INSTANCE_Rb4i_type=&_622_INSTANCE_Rb4i_version=1.0&_622_INSTANCE_Rb4i_orderByCol=display-date&_622_INSTANCE_Rb4i_orderByType=ascending&_622_INSTANCE_Rb4i_articleId=92479&_622_INSTANCE_Rb4i_redirect=http%3A%2F%2Fcai.psych.ac.cn%3A8081%2F6%3Fp_p_id%3D622_INSTANCE_Rb4i%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview)|女|2021届|腾讯（工作）|
+|[王潇欧](http://cai.psych.ac.cn:8081/6?p_p_id=622_INSTANCE_Rb4i&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_622_INSTANCE_Rb4i_struts_action=%2Fjournal_articles2%2Fview&_622_INSTANCE_Rb4i_cur=2&_622_INSTANCE_Rb4i_delta=20&_622_INSTANCE_Rb4i_keywords=&_622_INSTANCE_Rb4i_advancedSearch=false&_622_INSTANCE_Rb4i_andOperator=true&_622_INSTANCE_Rb4i_searchArticleId=&_622_INSTANCE_Rb4i_content=&_622_INSTANCE_Rb4i_description=&_622_INSTANCE_Rb4i_groupId=92175&_622_INSTANCE_Rb4i_status=approved&_622_INSTANCE_Rb4i_structureId=&_622_INSTANCE_Rb4i_templateId=&_622_INSTANCE_Rb4i_title=&_622_INSTANCE_Rb4i_type=&_622_INSTANCE_Rb4i_version=1.0&_622_INSTANCE_Rb4i_orderByCol=display-date&_622_INSTANCE_Rb4i_orderByType=ascending&_622_INSTANCE_Rb4i_articleId=92497&_622_INSTANCE_Rb4i_redirect=http%3A%2F%2Fcai.psych.ac.cn%3A8081%2F6%3Fp_p_id%3D622_INSTANCE_Rb4i%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview)|女|2021届|字节跳动（工作）|
+|[朱慧珺](http://cai.psych.ac.cn:8081/6?p_p_id=622_INSTANCE_Rb4i&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_622_INSTANCE_Rb4i_struts_action=%2Fjournal_articles2%2Fview&_622_INSTANCE_Rb4i_cur=2&_622_INSTANCE_Rb4i_delta=20&_622_INSTANCE_Rb4i_keywords=&_622_INSTANCE_Rb4i_advancedSearch=false&_622_INSTANCE_Rb4i_andOperator=true&_622_INSTANCE_Rb4i_searchArticleId=&_622_INSTANCE_Rb4i_content=&_622_INSTANCE_Rb4i_description=&_622_INSTANCE_Rb4i_groupId=92175&_622_INSTANCE_Rb4i_status=approved&_622_INSTANCE_Rb4i_structureId=&_622_INSTANCE_Rb4i_templateId=&_622_INSTANCE_Rb4i_title=&_622_INSTANCE_Rb4i_type=&_622_INSTANCE_Rb4i_version=1.0&_622_INSTANCE_Rb4i_orderByCol=display-date&_622_INSTANCE_Rb4i_orderByType=ascending&_622_INSTANCE_Rb4i_articleId=92488&_622_INSTANCE_Rb4i_redirect=http%3A%2F%2Fcai.psych.ac.cn%3A8081%2F6%3Fp_p_id%3D622_INSTANCE_Rb4i%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview)|女|2021届|北京思特奇（工作）|
+|[张明杨](http://cai.psych.ac.cn:8081/6?p_p_id=622_INSTANCE_Rb4i&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_622_INSTANCE_Rb4i_struts_action=%2Fjournal_articles2%2Fview&_622_INSTANCE_Rb4i_cur=2&_622_INSTANCE_Rb4i_delta=20&_622_INSTANCE_Rb4i_keywords=&_622_INSTANCE_Rb4i_advancedSearch=false&_622_INSTANCE_Rb4i_andOperator=true&_622_INSTANCE_Rb4i_searchArticleId=&_622_INSTANCE_Rb4i_content=&_622_INSTANCE_Rb4i_description=&_622_INSTANCE_Rb4i_groupId=92175&_622_INSTANCE_Rb4i_status=approved&_622_INSTANCE_Rb4i_structureId=&_622_INSTANCE_Rb4i_templateId=&_622_INSTANCE_Rb4i_title=&_622_INSTANCE_Rb4i_type=&_622_INSTANCE_Rb4i_version=1.0&_622_INSTANCE_Rb4i_orderByCol=display-date&_622_INSTANCE_Rb4i_orderByType=ascending&_622_INSTANCE_Rb4i_articleId=92506&_622_INSTANCE_Rb4i_redirect=http%3A%2F%2Fcai.psych.ac.cn%3A8081%2F6%3Fp_p_id%3D622_INSTANCE_Rb4i%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview)|男|2021届|清华大学（读博）|
